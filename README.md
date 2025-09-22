@@ -6,11 +6,11 @@ I love coding and experimenting with different projects — from **university CS
 ### 🔧 Tech Stack
 - Java ☕  
 - C++ ⚙️  
-- GDScript 🎮  
+- GDScript 🎮
 
 ### 🎯 What I do
-- Build games and prototypes in Godot  
-- Work on university projects in CS  
+- Build & play games and prototypes 
+- Work on university projects in CS
 - Learn and explore new tech along the way 🚀  
 
 ---
