@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**Jakoby1835/Jakoby1835** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m **20 years old** and currently studying for my **Bachelor’s in Computer Science**.  
+I love coding and experimenting with different projects — from **university CS projects** to **game development**.  
 
-Here are some ideas to get you started:
+### 🔧 Tech Stack
+- Java ☕  
+- C++ ⚙️  
+- GDScript 🎮  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 What I do
+- Build games and prototypes in Godot  
+- Work on university projects in CS  
+- Learn and explore new tech along the way 🚀  
+
+---
+📫 Feel free to connect or check out my projects here on GitHub!
